@@ -1,6 +1,6 @@
 from matplotlib import pyplot as plt
 
-#print(plt.style.available)
+#print(plt.style.available) hi
 plt.style.use('fivethirtyeight')
 #plt.style.use('ggplot')
 
